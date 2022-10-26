@@ -1,0 +1,15 @@
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.deps.json
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.runtimeconfig.json
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.dll
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.pdb
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.csproj.AssemblyReference.cache
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.AssemblyInfoInputs.cache
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.AssemblyInfo.cs
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.dll
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/refint/lab08.dll
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.pdb
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.genruntimeconfig.cache
+/home/curtrick/code_401/CodeAlong/Lab08_Codealong/lab08/obj/Debug/net6.0/ref/lab08.dll
